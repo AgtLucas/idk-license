@@ -1,0 +1,19 @@
+{
+  "name": "idk-license",
+  "version": "1.0.0",
+  "description": "IDK License",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/idk-license.git"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/idk-license/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/idk-license#readme"
+}
